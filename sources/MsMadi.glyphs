@@ -36111,16 +36111,7 @@ width = 205;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "MsMadi  Regular";
-},
-{
-name = postscriptFontName;
-value = "MsMadi-Regular";
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "6A041D6C-A676-4DB4-A570-80A8F8AA896B" = 1;
 };
